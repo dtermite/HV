@@ -4,7 +4,7 @@
 		
 <!-- CAJA PRINCIPAL -->
 <div id="principal">
-	<h1>Ultimas entradas</h1>
+	<h1>Ultimas entradas HV</h1>
 	
 	<?php 
 		$entradas = conseguirEntradas($db, true);
