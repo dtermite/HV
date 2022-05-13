@@ -1,3 +1,7 @@
 Esto es una prueba
 Aca agrego nueva linea
+<<<<<<< HEAD
 Ahora agrego linea desde local a ver si avisa cambio en remoto
+=======
+Ahora va segunda linea desde repositorio remoto
+>>>>>>> 700e2ff3a41150db78e334ded9423b221a01abb1
