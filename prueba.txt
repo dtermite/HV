@@ -1,4 +1,6 @@
 Esto es una prueba
 Aca agrego nueva linea
 Agrego linea desde remoto
+Otra linea remoto
 sin hacer pull agrego linea de local
+>>>>>>> 12336622c5e81da98380f4381df7da234443296f
