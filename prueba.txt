@@ -3,5 +3,10 @@ Aca agrego nueva linea
 Agrego linea desde remoto
 Otra linea remoto
 sin hacer pull agrego linea de local
+<<<<<<< HEAD
 otra local
 otra local
+=======
+otra remoto
+otra remoto
+>>>>>>> 66658ca0ab37487fd73f22518e567643816770f7
