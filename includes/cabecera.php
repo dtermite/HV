@@ -4,7 +4,7 @@
 <html lang="es">
 	<head>
 		<meta charset="utf-8" />
-		<title>Blog de Videojuegos</title>
+		<title>Catalogo de Productos</title>
 		<link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
 	</head>
 	<body>
@@ -13,7 +13,7 @@
 			<!-- LOGO -->
 			<div id="logo">
 				<a href="index.php">
-					Blog de Videojuegos
+					Detalle de Productos
 				</a>
 			</div>
 			
